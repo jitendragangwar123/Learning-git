@@ -1,4 +1,5 @@
 # Learning-git
 ##This repo was used to lean git from Amigoscode.
-![Screenshot from 2020-12-08 19-59-15](https://user-images.githubusercontent.com/76531339/139791387-f296610e-3734-4078-97d0-27bc7c61e5d2.png)
+![2048px-Octicons-mark-github svg](https://user-images.githubusercontent.com/76531339/139791941-56661496-12f6-4bf0-977e-904184b79b7a.png)
+
 
